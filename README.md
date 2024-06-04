@@ -1,5 +1,7 @@
 ## Instrucciones para levantar el proyecto
 
+0. activar docker desktop 
+
 1. clonar el proyecto de github
 
 2. abrir una terminal 
